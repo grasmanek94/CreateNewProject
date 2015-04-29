@@ -11,10 +11,10 @@
     <None Include="makefile" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="template.h" />
+    <ClInclude Include="<PROJECTNAME>.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="template.c" />
+    <ClCompile Include="<PROJECTNAME>.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{37A42495-D54F-4BA1-9C69-788A3AFFD401}</ProjectGuid>
